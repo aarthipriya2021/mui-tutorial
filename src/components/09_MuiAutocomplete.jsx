@@ -1,4 +1,6 @@
-import React from 'react';
+// The autocomplete is a normal text input enhanced by a panel of suggested options.
+
+
 import { Autocomplete, Box, TextField } from '@mui/material'; 
 
 const MuiAutocomplete = () => {

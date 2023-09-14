@@ -1,3 +1,7 @@
+// Buttons allow users to take actions, and make choices, with a single tap.
+// The Button comes with three variants: text (default), contained, and outlined.
+
+
 import { Stack, Button, ButtonGroup, ToggleButtonGroup,ToggleButton  } from "@mui/material";
 import SendIcon from "@mui/icons-material/Send";
 import FormatBoldIcon from '@mui/icons-material/FormatBold';

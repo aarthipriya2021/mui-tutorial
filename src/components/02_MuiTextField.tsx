@@ -1,3 +1,8 @@
+// Text Fields let users enter and edit text.
+// Text fields allow users to enter text into a UI. They typically appear in forms and dialogs.
+// The TextField wrapper component is a complete form control including a label, input, and help text. It comes with three variants: outlined (default), filled, and standard.
+
+
 import { InputAdornment, Stack, TextField } from '@mui/material'
 import {useState} from 'react';
 

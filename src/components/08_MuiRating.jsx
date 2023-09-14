@@ -1,3 +1,7 @@
+// Ratings provide insight regarding others' opinions and experiences, and can allow the user to submit a rating of their own.
+
+
+
 import { useState } from "react";
 import { Box, Rating, Typography } from "@mui/material";
 import StarIcon from "@mui/icons-material/Star";

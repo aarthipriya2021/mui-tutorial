@@ -1,3 +1,7 @@
+// Use typography to present your design and content as clearly and efficiently as possible.
+// Material UI uses the Roboto font by default. Add it to your project via Fontsource, or with the Google Fonts CDN.
+
+
 import { Typography } from "@mui/material";
 
 const MuiTypography = () => {
@@ -16,3 +20,4 @@ const MuiTypography = () => {
 }
 
 export default MuiTypography
+

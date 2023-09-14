@@ -1,3 +1,5 @@
+// Select components are used for collecting user provided information from a list of options.
+
 import { useState } from "react";
 import { Box, MenuItem, FormControl, InputLabel, FormHelperText } from "@mui/material";
 import Select, { SelectChangeEvent } from '@mui/material/Select';
